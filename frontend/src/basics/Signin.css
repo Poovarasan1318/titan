@@ -1,0 +1,24 @@
+.log label{
+    padding-top: 20px;
+    padding-right: 20px;
+}
+.log{
+    background-color: ghostwhite;
+    text-align: center;
+    margin-top: 50px;
+    padding-top: 30px;
+}
+.log input{
+    margin-left: 20px;
+    text-align: center;
+
+}
+.log button{
+    margin-top: 50px;
+    padding: 5px;
+    border: 2px solid lightgray;
+    border-radius: 30px;
+    width: 100px;
+    background-color: rgb(97, 97, 252);
+    color: white;
+}

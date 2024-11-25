@@ -1,0 +1,22 @@
+.cart .pic img{
+    width: 100%;
+}
+.cart .pic{
+    width: 330px;
+   
+}
+.cartpdt{
+    display: flex;
+    margin-top: 10px;  
+    width: 100%; 
+    
+}
+.cart{
+    margin-left: 30px;
+    margin-top: 40px;
+    text-align: center;
+    
+}
+.cart .but button{ 
+    height: 35px;
+}
